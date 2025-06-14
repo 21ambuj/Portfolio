@@ -1,7 +1,7 @@
 👋 Hi, I'm Ambuj Kumar Maurya
 This repository contains the source code for my personal creative portfolio, a fully responsive and interactive single-page application designed to showcase my skills and projects.
 
-🚀 View the Live Portfolio Here! (<- Replace with your actual live URL)
+🚀 View the Live Portfolio Here! -> https://21ambuj.github.io/Portfolio/
 
 ✨ About This Portfolio
 This isn't just a standard portfolio; it's a creative project in itself. I wanted to build a memorable and engaging digital experience that reflects my passion for front-end development and modern web technologies.
