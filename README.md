@@ -47,7 +47,7 @@ Live OS Monitor: A lightweight system tool to monitor core OS metrics like CPU, 
 📫 Get In Touch
 I'm always open to connecting and discussing new projects or opportunities.
 
-LinkedIn: linkedin.com/in/21ambuj
+LinkedIn: https://linkedin.com/in/21ambuj
 
 Email: ambuj20maurya@gmail.com
 
